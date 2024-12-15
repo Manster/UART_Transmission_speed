@@ -34,8 +34,7 @@ ESP32 does not have built-in EEPROM like some other microcontrollers. Instead, t
    - TX Pin: GPIO 4
    - RX Pin: GPIO 5
 
-4. Optional:
-   - External UART module (e.g., USB-to-TTL converter) for testing
+4. USB-to-TTL converter to send and receive command from esp to PC.
 
 ---
 
