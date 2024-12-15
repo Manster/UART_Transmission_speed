@@ -192,7 +192,5 @@ xTaskCreate(rx_task, "uart_rx_task", 1024 * 3, NULL, configMAX_PRIORITIES, NULL)
 - **Prathamesh Wanjale**
 - Embedded Firmware Engineer
 
----
 
-Enjoy implementing UART communication and NVS storage with ESP32! ✅
 
