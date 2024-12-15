@@ -910,3 +910,13 @@
 217716	218506	7559565275464167	C:/Users/Admin/UART_Transmission_Speed/build/.bin_timestamp	8f8197dbd61a7b97
 218507	218748	0	esp-idf/esptool_py/CMakeFiles/app_check_size	c4db2e7b9e5c258f
 218507	218748	0	C:/Users/Admin/UART_Transmission_Speed/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c4db2e7b9e5c258f
+152	397	0	esp-idf/esptool_py/CMakeFiles/app_check_size	c4db2e7b9e5c258f
+152	397	0	C:/Users/Admin/UART_Transmission_Speed/build/esp-idf/esptool_py/CMakeFiles/app_check_size	c4db2e7b9e5c258f
+168	605	7559564309346691	bootloader-prefix/src/bootloader-stamp/bootloader-build	a41d1b263ee3c366
+168	605	7559564309346691	bootloader/bootloader.elf	a41d1b263ee3c366
+168	605	7559564309346691	bootloader/bootloader.bin	a41d1b263ee3c366
+168	605	7559564309346691	bootloader/bootloader.map	a41d1b263ee3c366
+168	605	7559564309346691	C:/Users/Admin/UART_Transmission_Speed/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	a41d1b263ee3c366
+168	605	7559564309346691	C:/Users/Admin/UART_Transmission_Speed/build/bootloader/bootloader.elf	a41d1b263ee3c366
+168	605	7559564309346691	C:/Users/Admin/UART_Transmission_Speed/build/bootloader/bootloader.bin	a41d1b263ee3c366
+168	605	7559564309346691	C:/Users/Admin/UART_Transmission_Speed/build/bootloader/bootloader.map	a41d1b263ee3c366
